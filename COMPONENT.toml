@@ -3,7 +3,7 @@ name = "SigmaOS-hostname-configuration"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "hostname-configuration component"
+description = "Hostname Configuration"
 upstream = []
 
 [contract]
